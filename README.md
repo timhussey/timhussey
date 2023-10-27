@@ -15,6 +15,9 @@
     <a href="#">
         <img src="https://img.shields.io/github/stars/timhussey?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
+    <a href="#">
+        <img src="https://badges.strrl.dev/contributions/all/timhussey" />
+    </a>
     <br />
     <a href="#">
         <img src="https://img.shields.io/badge/Open_Source-❤-FF0069?style=flat&labelColor=333333&logoColor=E7E7E7">
@@ -75,3 +78,6 @@ console.log(me.isBirthdayToday());
 ```
 
 [![timhussey's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhussey)](https://github.com/timhussey)
+[![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=timhussey&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/timhussey)
+
+
