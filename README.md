@@ -9,7 +9,7 @@
     <a href="https://github.com/STRRL/serverless-github-badges">
         <img src="https://badges.strrl.dev/years/timhussey?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="https://github.com/Willy-JL?tab=followers">
+    <a href="https://github.com/timhussey?tab=followers">
         <img src="https://img.shields.io/github/followers/timhussey?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
     <a href="#">
