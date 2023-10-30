@@ -31,6 +31,27 @@
 
 <br />
 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![Javascript](https://img.shields.io/badge/-Javascript-%23282C34?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat&logo=react)
+![Wordpress](https://img.shields.io/badge/-Wordpress-%231c769c?style=flat&logo=wordpress)
+![PHP](https://img.shields.io/badge/-PHP-%23282C34?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-%23017a9e?style=flat&logo=mysql&logoColor=%23ffffff)
+
+
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat&logo=prettier&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
+![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-%23fb2d91?style=flat&logo=phpstorm)
+
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
 
 ```js
 class AboutMe {
@@ -78,6 +99,5 @@ console.log(me.isBirthdayToday());
 ```
 
 [![timhussey's GitHub stats](https://github-readme-stats.vercel.app/api?username=timhussey)](https://github.com/timhussey)
-[![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=timhussey&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/timhussey)
 
 
