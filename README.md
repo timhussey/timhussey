@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm timhussey!</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>Director of Fun 🎉</b> <i>and</i> <b>PHP Nerd 🤓</b>
+    <i>Senior Front-End Developer | React & TypeScript Expert | SaaS Founder | Creative Problem Solver | Director of Fun 🎉</b>
     <br />
     <br />
     <a href="https://hits.seeyoufarm.com/">
@@ -58,9 +58,9 @@ class AboutMe {
   constructor() {
     this.username = "@timhussey";
     this.fullname = "Tim Hussey";
-    this.location = "Arizona";
-    this.occupation = "Software Engineer";
-    this.company = "Showit";
+    this.location = "San Jose, CA";
+    this.occupation = "Senior Front-end Software Engineer";
+    this.company = "Available now";
     this.birthday = new Date(1984, 6, 29); // months are 0-indexed Born in July
     this.hobbies = [
       "singing",
